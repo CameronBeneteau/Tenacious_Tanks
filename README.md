@@ -25,7 +25,7 @@ February 12th, 2018: Tailai made and Update to all files, allowing players to ac
 February 16th, 2018: Cameron created menu and instruction screens. Players can now go through menu and instructions before starting the                          game. When game finishes, players can choose to play again (all variables will reset) or exit the window.  
                      Tailai and Cameron added explosion sprites for bullet impacts. Added a new Python 3.2 file that splits sprites into                        png. files. Added explosion animation and polished up User Interface. Comments added to code.
                     
-
+**Grade: 100%**
                     
                     
 
