@@ -1,7 +1,7 @@
 # ICS4U Simple Game Project: Tenacious-Tanks
 ###### By Cameron Beneteau and Tailai Wang
 
-A 2 Player Tank game made on Java. 
+A 2 Player Tank game made on Java. (Remake of "Scorched Earth")
 ## Edit Notes Below
 January 22nd, 2018: Project begins  
 January 23rd, 2018: Cameron starts developping Bullet Class and Testing  
