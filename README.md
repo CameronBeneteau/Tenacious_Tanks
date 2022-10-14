@@ -62,7 +62,7 @@ Some fun things we would like to build on or explore relating to this project wo
 - Ability for players to choose different map themes
 - Display previous shot trajectory and info to help users make their next shot more precise
 - Controls icons next to power and angle text fields in case users forget their controls
-
+- Add sound effects to shots and explosions
 
 ## Development Changelog
 January 22nd, 2018: The project begins
