@@ -82,7 +82,7 @@ Began tank object class (deals with health, damage, etc).
 
 February 5th, 2018: Cameron finished angle and movement inputs from users.
 
-February 6th, 2018: Cameron created the turning process. Each player has a selection phase and shooting phase.
+February 6th, 2018: Cameron created the turning process. Each player has a selection phase and a shooting phase.
 Tailai created and implemented turn images for each user.
 
 February 7th, 2018: Cameron finished the movement restriction for tanks. (Can only move up to 50 pixels left or right during the selection phase)
