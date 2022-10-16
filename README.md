@@ -9,8 +9,6 @@ Grade: 100%
 
 ![Tenacious Tanks Gif](assets/TenaciousTanksGif.gif)  
 
-<!-- Demo GIF here -->
-
 ## Table of Contents
 [1. Intro](#Intro)  
 [2. Gameplay](#Gameplay)  
