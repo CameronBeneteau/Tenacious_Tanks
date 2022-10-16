@@ -3,7 +3,7 @@
 A two-player tank game made using Java! ([Demo Video](https://youtu.be/iMbGX3d2MWY))
 
 By [Cameron Beneteau](https://github.com/CameronBeneteau) and [Tailai Wang](https://github.com/tailaiwang)  
-Course: Computer Science ICS4U (Grade 11)  
+Course: Computer Science ICS4U (Grade 12)  
 Date: February 16th, 2018  
 Grade: 100%
 
