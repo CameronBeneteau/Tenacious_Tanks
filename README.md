@@ -20,7 +20,7 @@ Grade: 100%
 
 ## Intro
 
-Tenacious tanks is a two-player turn-based strategy game inspired by the classic arcade game [Scorched Earth](https://en.wikipedia.org/wiki/Scorched_Earth_(video_game)).
+Tenacious Tanks is a two-player turn-based strategy game inspired by the classic arcade game [Scorched Earth](https://en.wikipedia.org/wiki/Scorched_Earth_(video_game)).
 
 This game was made using Java. It utilizes object-oriented programming and other ICS4U computing techniques.
 
