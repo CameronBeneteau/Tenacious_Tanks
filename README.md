@@ -1,6 +1,6 @@
 # Tenacious Tanks
 
-A two-player tank game made using Java! ([Demo Video](https://youtu.be/iMbGX3d2MWY))
+A remake of the classic arcade game [Scorched Earth](https://en.wikipedia.org/wiki/Scorched_Earth_(video_game)), using Java! ([Demo Video](https://youtu.be/iMbGX3d2MWY))
 
 By [Cameron Beneteau](https://github.com/CameronBeneteau) and [Tailai Wang](https://github.com/tailaiwang)  
 Course: Computer Science ICS4U (Grade 12)  
